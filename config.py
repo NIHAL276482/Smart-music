@@ -14,11 +14,11 @@ API_HASH = getenv("API_HASH")
 # ------------------------------------------------------
 BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","Mr_harsh_zs2")
+OWNER_USERNAME = getenv("OWNER_USERNAME","sun_god_luffyy")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "Tannu_Robot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "Kira_Nrobot")
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME" , "˹𝐓ᴀɴɴᴜ ✘ 𝐌ꫝɴᴀɢᴇᴍᴇɴᴛ˼")
+BOT_NAME = getenv("BOT_NAME" , "˹ʟᴜғғʏ ✘ 𝐌ꫝɴᴀɢᴇᴍᴇɴᴛ˼")
 # ---------------------------------------------------------
 ASSUSERNAME = getenv("ASSUSERNAME" , "mr_harsh_zs2")
 # ---------------------------------------------------------
@@ -31,7 +31,7 @@ MONGO_DB_URI = getenv("MONGO_DB_URI", None)
 #---------------------------------------------------------------
 
 # ----------------------------------------------------------------
-DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
+DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 1700000))
 # ----------------------------------------------------------------
 
 # ----------------------------------------------------------------
