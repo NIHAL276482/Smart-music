@@ -20,7 +20,7 @@ BOT_USERNAME = getenv("BOT_USERNAME" , "Kira_Nrobot")
 # --------------------------------------------------------
 BOT_NAME = getenv("BOT_NAME" , "˹ʟᴜғғʏ ✘ 𝐌ꫝɴᴀɢᴇᴍᴇɴᴛ˼")
 # ---------------------------------------------------------
-ASSUSERNAME = getenv("ASSUSERNAME" , "mr_harsh_zs2")
+ASSUSERNAME = getenv("ASSUSERNAME" , "sun_god_luffyy")
 # ---------------------------------------------------------
 
 
@@ -68,7 +68,7 @@ GIT_TOKEN = getenv(
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Sigmabot_support")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/The_Limited_World")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/unksupport")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
