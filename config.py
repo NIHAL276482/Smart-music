@@ -67,8 +67,8 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Sigmabot_support")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/unksupport")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/kira_nro1")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/kira_rob")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
@@ -99,7 +99,7 @@ SPOTIFY_CLIENT_SECRET = getenv("SPOTIFY_CLIENT_SECRET", "709e1a2969664491b582008
 
 
 # -----------------------------------------------------------------------------------
-PLAYLIST_FETCH_LIMIT = int(getenv("PLAYLIST_FETCH_LIMIT", 25))
+PLAYLIST_FETCH_LIMIT = int(getenv("PLAYLIST_FETCH_LIMIT", 250))
 # ------------------------------------------------------------------------------------
 
 # ------------------------------------------------------------------------------------
