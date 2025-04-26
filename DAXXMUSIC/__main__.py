@@ -43,19 +43,19 @@ async def init():
         await DAXX.stream_call("https://te.legra.ph/file/29f784eb49d230ab62e9e.mp4")
     except NoActiveGroupCall:
         LOGGER("DAXXMUSIC").error(
-            "𝐏𝐋𝐙 𝐒𝐓𝐀𝐑𝐓 𝐘𝐎𝐔𝐑 𝐋𝐎𝐆 𝐆𝐑𝐎𝐔𝐏 𝐕𝐎𝐈𝐂𝐄𝐂𝐇𝐀𝐓\𝐂𝐇𝐀𝐍𝐍𝐄𝐋\n\n𝐇𝐀𝐑𝐒𝐇 𝐁𝐎𝐓 𝐒𝐓𝐎𝐏........"
+            "𝐏𝐋𝐙 𝐒𝐓𝐀𝐑𝐓 𝐘𝐎𝐔𝐑 𝐋𝐎𝐆 𝐆𝐑𝐎𝐔𝐏 𝐕𝐎𝐈𝐂𝐄𝐂𝐇𝐀𝐓\𝐂𝐇𝐀𝐍𝐍𝐄𝐋\n\n神 𝗞ɪʀᴀ 𝐁𝐎𝐓 𝐒𝐓𝐎𝐏........"
         )
         exit()
     except:
         pass
     await DAXX.decorators()
-    LOGGER("DAXXMUSIC").info(
-        "╔═════☠️ஜ۩💋۩ஜ☠️════╗\n  🍁𝐌𝐀𝐃𝐄 𝐁𝐘 𝐌𝐑 𝐇𝐀𝐑𝐒𝐇🍁\n╚═════☠️ஜ۩💋۩ஜ☠️════╝"
+    LOGGER("神 𝗞ɪʀᴀ").info(
+        "╔═════☠️ஜ۩💋۩ஜ☠️════╗\n  🍁𝐌𝐀𝐃𝐄 𝐁𝐘 𝐌𝐑 LUFFY🍁\n╚═════☠️ஜ۩💋۩ஜ☠️════╝"
     )
     await idle()
     await app.stop()
     await userbot.stop()
-    LOGGER("DAXXMUSIC").info("𝐒𝐓𝐎𝐏 𝐇𝐀𝐑𝐒𝐇 𝐌𝐔𝐒𝐈𝐂⚡ 𝐁𝐎𝐓..")
+    LOGGER("神 𝗞ɪʀᴀ").info("𝐒𝐓𝐎𝐏 神 𝗞ɪʀᴀ 𝐌𝐔𝐒𝐈𝐂⚡ 𝐁𝐎𝐓..")
 
 
 if __name__ == "__main__":
